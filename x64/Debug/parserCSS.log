@@ -1,0 +1,3 @@
+﻿  parserCSS.cpp
+C:\Users\wikto\source\repos\parserCSS\parserCSS.cpp(836,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  parserCSS.vcxproj -> C:\Users\wikto\source\repos\parserCSS\x64\Debug\parserCSS.exe
